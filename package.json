@@ -1,0 +1,8 @@
+{
+  "name": "teste-software",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carlos Alberto",
+  "license": "MIT",
+  "private": false
+}
